@@ -23,6 +23,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assignment and Communication
 - Working the Issue
 - Resolution
+ - Observe the ticket’s properties
+  
 
 <h2>Lifecycle Stages</h2>
 
