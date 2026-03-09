@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-Created Helpdsk Ticket (https://github.com/user-attachments/assets/22d4c010-d21a-4521-9227-4bb5296a68b0)
+Created Helpdsk Ticket ![Screenshot_2-3-2026_21265_localhost](https://github.com/user-attachments/assets/e5baf36f-0528-4ef9-9567-eaeda6c091ed)
 
 
 
