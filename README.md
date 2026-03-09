@@ -42,9 +42,7 @@ Create Helpdesk Ticket ![Screenshot_2-3-2026_233315_localhost](https://github.co
 Updated Ticket to sys admin ![Screenshot_2-3-2026_212155_localhost](https://github.com/user-attachments/assets/ac473536-c271-4add-b0ef-0c9c3a892ca6)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 
 
