@@ -43,3 +43,21 @@ Updated Ticket priority to Emergency ![Screenshot_2-3-2026_211750_localhost](htt
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot_2-3-2026_233315_localhost](https://github.com/user-attachments/assets/0ac40c29-93d4-4412-baf4-214e9e1e0f80)
+
+
+
+
+
