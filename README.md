@@ -29,7 +29,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-![Screenshot_2-3-2026_233315_localhost](https://github.com/user-attachments/assets/06f030be-2318-4eb8-961e-1caee7d74bc2)
+![Screenshot_2-3-2026_21265_localhost](https://github.com/user-attachments/assets/a55bfa5a-6f5a-415d-a8ae-3fd7a677694a)
+
 
 </p>
 <p>
