@@ -55,7 +55,6 @@ Updated Ticket to sys admin ![Screenshot_2-3-2026_212155_localhost](https://gith
 
 
 
-![Screenshot_2-3-2026_233315_localhost](https://github.com/user-attachments/assets/0ac40c29-93d4-4412-baf4-214e9e1e0f80)
 
 
 
