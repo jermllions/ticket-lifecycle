@@ -24,7 +24,7 @@
 - Working the Issue
 - Resolution
  - Observe the ticket’s properties
-  
+  create users/Admin
 
 <h2>Lifecycle Stages</h2>
 
