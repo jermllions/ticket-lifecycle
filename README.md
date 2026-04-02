@@ -31,15 +31,7 @@
 <p>
 
 
-Create Helpdesk Ticket ![Screenshot_2-3-2026_233315_localhost](https://github.com/user-attachments/assets/4a9a76ae-8d7b-48c0-b8da-7bd3176cc663)
-
-
-
-
-
-
-
-Updated Ticket to sys admin ![Screenshot_2-3-2026_212155_localhost](https://github.com/user-attachments/assets/ac473536-c271-4add-b0ef-0c9c3a892ca6)
+As an end-user I createD the following ticket; <img width="1366" height="768" alt="bank ticket" src="https://github.com/user-attachments/assets/ac497fe1-6107-4070-89f8-319b10e2fbec" />   <img width="1366" height="768" alt="Screenshot 2026-04-01 235112" src="https://github.com/user-attachments/assets/499a9c35-4d8f-430e-a0fc-b68c4541b207" />
 
 
 
@@ -53,7 +45,21 @@ Updated Ticket to sys admin ![Screenshot_2-3-2026_212155_localhost](https://gith
 
 
 
-Change Ticket Priority to Emergency ![Screenshot_2-3-2026_211750_localhost (1)](https://github.com/user-attachments/assets/e11e582d-70c3-43d7-9721-0f7cbe10d729)
+
+As a Help Desk Agent john i observed the ticket’s properties and updated the SLA 
+<img width="1069" height="602" alt="john22" src="https://github.com/user-attachments/assets/5e263f44-3159-49e2-92a5-ea7ef9a29aa0" />
+<img width="1341" height="634" alt="SLA" src="https://github.com/user-attachments/assets/1931f98f-986e-4e77-aa8c-80c3ead3c961" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
