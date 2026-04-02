@@ -66,4 +66,7 @@ As a Help Desk Agent john i observed the ticket’s properties and updated the S
 
 
 
+As a Help Desk Agent john i trasnferred the ticket to jane doe and SysAdmin 
+<img width="1352" height="639" alt="john transfer" src="https://github.com/user-attachments/assets/48eaabf2-c350-4890-855f-0cfae80b65c1" />
+
 
