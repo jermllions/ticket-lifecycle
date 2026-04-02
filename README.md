@@ -31,7 +31,7 @@
 <p>
 
 
-As an end-user I createD the following ticket; <img width="1366" height="768" alt="bank ticket" src="https://github.com/user-attachments/assets/ac497fe1-6107-4070-89f8-319b10e2fbec" />   <img width="1366" height="768" alt="Screenshot 2026-04-01 235112" src="https://github.com/user-attachments/assets/499a9c35-4d8f-430e-a0fc-b68c4541b207" />
+As an end-user I created the following ticket; <img width="1366" height="768" alt="bank ticket" src="https://github.com/user-attachments/assets/ac497fe1-6107-4070-89f8-319b10e2fbec" />   <img width="1366" height="768" alt="Screenshot 2026-04-01 235112" src="https://github.com/user-attachments/assets/499a9c35-4d8f-430e-a0fc-b68c4541b207" />
 
 
 
