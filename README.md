@@ -70,3 +70,54 @@ As a Help Desk Agent john i trasnferred the ticket to jane doe and SysAdmin
 <img width="1352" height="639" alt="john transfer" src="https://github.com/user-attachments/assets/48eaabf2-c350-4890-855f-0cfae80b65c1" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a Help Desk Agent Jane i viewed/opened the ticket from john doe
+<img width="1254" height="638" alt="jane t" src="https://github.com/user-attachments/assets/42f5d37d-ef7b-4be8-93d1-73310fc0c203" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a Help Desk Agent Jane i updated the ticket and closed the ticket after resloving the issue.
+
+<img width="1269" height="629" alt="jane close ticket" src="https://github.com/user-attachments/assets/f7356c90-701a-48f3-876c-8e6baa7e04e4" />
