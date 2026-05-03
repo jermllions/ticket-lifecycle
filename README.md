@@ -31,7 +31,7 @@ This project expands on the previous osTicket configuration lab by moving beyond
 <p>
 
 
-As an end-user I created the following ticket; <img width="1366" height="768" alt="bank ticket" src="https://github.com/user-attachments/assets/ac497fe1-6107-4070-89f8-319b10e2fbec" />   <img width="1366" height="768" alt="Screenshot 2026-04-01 235112" src="https://github.com/user-attachments/assets/499a9c35-4d8f-430e-a0fc-b68c4541b207" />
+First, As an end-user I created the following ticket; <img width="1366" height="768" alt="bank ticket" src="https://github.com/user-attachments/assets/ac497fe1-6107-4070-89f8-319b10e2fbec" />   <img width="1366" height="768" alt="Screenshot 2026-04-01 235112" src="https://github.com/user-attachments/assets/499a9c35-4d8f-430e-a0fc-b68c4541b207" />
 
 
 
@@ -44,9 +44,7 @@ As an end-user I created the following ticket; <img width="1366" height="768" al
 
 
 
-
-
-As a Help Desk Agent john i observed the ticket’s properties and updated the SLA 
+Next, As a Help Desk Agent john i observed the ticket’s properties and updated the SLA 
 <img width="1069" height="602" alt="john22" src="https://github.com/user-attachments/assets/5e263f44-3159-49e2-92a5-ea7ef9a29aa0" />
 <img width="1341" height="634" alt="SLA" src="https://github.com/user-attachments/assets/1931f98f-986e-4e77-aa8c-80c3ead3c961" />
 
@@ -66,7 +64,7 @@ As a Help Desk Agent john i observed the ticket’s properties and updated the S
 
 
 
-As a Help Desk Agent john i trasnferred the ticket to jane doe and SysAdmin 
+Next, As a Help Desk Agent john i trasnferred the ticket to jane doe and SysAdmin 
 <img width="1352" height="639" alt="john transfer" src="https://github.com/user-attachments/assets/48eaabf2-c350-4890-855f-0cfae80b65c1" />
 
 
@@ -118,6 +116,6 @@ As a Help Desk Agent Jane i viewed/opened the ticket from john doe
 
 
 
-As a Help Desk Agent Jane i updated the ticket and closed the ticket after resloving the issue.
+And last as a Help Desk Agent Jane i updated the ticket and closed the ticket after resloving the issue.
 
 <img width="1269" height="629" alt="jane close ticket" src="https://github.com/user-attachments/assets/f7356c90-701a-48f3-876c-8e6baa7e04e4" />
